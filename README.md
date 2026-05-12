@@ -28,6 +28,3 @@ MarketDataFeed → EventQueue → FillEngine → PortfolioTracker
 - [ ] Portfolio tracker (P&L, drawdown)
 - [ ] Example strategy
 
-## License
-
-MIT

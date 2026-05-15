@@ -1,0 +1,3 @@
+/mnt/b/Studies/Finance/Python/Projects/Event-Driven Backtester/Coding/edb/build/CMakeFiles/run_backtest.dir
+/mnt/b/Studies/Finance/Python/Projects/Event-Driven Backtester/Coding/edb/build/CMakeFiles/edit_cache.dir
+/mnt/b/Studies/Finance/Python/Projects/Event-Driven Backtester/Coding/edb/build/CMakeFiles/rebuild_cache.dir

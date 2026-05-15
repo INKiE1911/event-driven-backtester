@@ -8,5 +8,23 @@ namespace edb
     {
         std::uint32_t id;
     };
-    
+    enum class Direction: std::uint8_t{
+        Buy,
+        Sell
+    };
+    enum class OrderType: std::uint8_t{
+        Market,
+        Limit
+    };
+    enum class SignalType: std::uint8_t{
+        Long,
+        Short,
+        Exit
+    };
+    enum class Exchange: std::uint8_t{
+        Nyse,
+        Nasdaq,
+        Arca,
+        Smart
+    }; 
 }
